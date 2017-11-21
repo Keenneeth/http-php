@@ -1,2 +1,2 @@
 #!/bin/bash
-exec /usr/sbin/php-fpm -DFOREGROUND
+exec /usr/sbin/apachectl -DFOREGROUND
